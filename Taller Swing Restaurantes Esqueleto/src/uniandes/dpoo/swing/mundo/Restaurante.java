@@ -50,7 +50,7 @@ public class Restaurante
     public String toString( )
     {
      
-        return nombre + " (" + coordenadaX + ", " + coordenadaY + ")";
+        return nombre ;
     }
 
 }
